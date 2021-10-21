@@ -1,4 +1,4 @@
-# taxi-admin-service
+# taxi-service
 
 ### Hello, this is my project taxi service project for taxi drivers.
 ![img_1.png](img_1.png)
